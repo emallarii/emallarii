@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hi, Im Ethan!
 
+<h2> Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/emallarii/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/emallarii/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/emallarii/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/emallarii/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/emallarii/azure-network-protocols)
+
+<h2>Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/ethan-mallari-0434ba387?trk=people-guest_people_search-card
 <!--
 **emallarii/emallarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
