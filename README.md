@@ -1,4 +1,4 @@
-## Hi, Im Ethan!
+## Hi, Im Ethan! An IT Trainee.
 
 <h2> Information Technology Projects:</h2>
 
