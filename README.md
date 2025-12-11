@@ -8,6 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/emallarii/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/emallarii/configure-ad)
+- <b>Personal Computer Builds/Upgrades</b>
+  - [Most Recent Build and Graphics Processing Unit Upgrade](
 
 <h2>Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/ethan-mallari-0434ba387?trk=people-guest_people_search-card
