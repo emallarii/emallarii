@@ -1,4 +1,4 @@
-## Hi, Im Ethan! An IT Trainee and Repair/Build Technician!
+## Hi, Im Ethan! An IT Trainee and PC Repair/Build Technician!
 
 <h2> Information Technology Projects:</h2>
 
